@@ -1,1 +1,1 @@
-corentinth/it-tools:latest
+ghcr.io/immich-app/immich-server:release
