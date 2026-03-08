@@ -1,1 +1,1 @@
-1panel/1panel:latest
+1panel/1panel:latest;
