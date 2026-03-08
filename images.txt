@@ -1,1 +1,1 @@
-ghcr.io/animatediff/animatediff-webui:latest
+1panel/1panel:latest
