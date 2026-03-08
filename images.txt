@@ -1,1 +1,1 @@
-ghcr.io/immich-app/immich-server:release
+ghcr.io/neggles/animatediff-cli:latest
