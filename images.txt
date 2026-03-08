@@ -1,1 +1,1 @@
-ghcr.io/neggles/animatediff-cli:latest
+ghcr.io/animatediff/animatediff-webui:latest
